@@ -6,3 +6,7 @@ Using data anylitcs on a dataset of 10 years weather data
 Complete data is pushed in the main branch 
 
 Can also be downloaded from https://www.kaggle.com/mahirkukreja/delhi-weather-data
+
+
+# Steps taken care
+
